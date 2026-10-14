@@ -1,0 +1,16 @@
+{
+  "source_mode": "simulated_pcap",
+  "source_pcap": "C:/Users/mqx/Desktop/1212121.pcap",
+  "source_sha256": "88e53b2835febf5a35346e9dd02379894c530672277ab4ae7f45215766f04960",
+  "session_id": "f4bb329de9d9ae7a",
+  "clock_id": "lidar-device:f4bb329de9d9ae7a",
+  "native_metadata": "C:/Users/mqx/Documents/智能轨道检测/rsview_centerline/analysis/20261002_clearance/run-20261003-full-input-03/cart-frames/manifest.json",
+  "poses_source": "C:/Users/mqx/Documents/智能轨道检测/rsview_centerline/analysis/20261002_clearance/run-20261003-full-input-03/pose-work-03/cart-result-v5/registration.json",
+  "config": {
+    "config_id": "rsview-region-layout-test-v9",
+    "sensor_max_range_m": 5.0,
+    "measurement_height_range_m": [-0.3, 3.5],
+    "confirmed_background_path": "C:/Users/mqx/Documents/智能轨道检测/rsview_centerline/confirmed_background_1212121_v2.json",
+    "confirmed_measurement_scope_path": "C:/Users/mqx/Documents/智能轨道检测/rsview_centerline/confirmed_measurement_scope_1212121.json"
+  }
+}

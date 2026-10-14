@@ -1,0 +1,7 @@
+{
+  "confirmation": "user_confirmed_background",
+  "reference_frame": 686,
+  "native_seed_indices": [33621, 27381, 20083],
+  "source": "User explicitly identified the three right-side surfaces in the earlier screenshot as background, not this measurement's devices.",
+  "scope": "Human scene annotation for original 1212121.pcap only; not automatic semantic recognition and not a target-distance input."
+}

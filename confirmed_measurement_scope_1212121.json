@@ -1,0 +1,20 @@
+{
+  "format": "clearance-confirmed-measurement-scope-v1",
+  "confirmation": "user_confirmed_measurement_scope",
+  "source_pcap": "C:/Users/mqx/Desktop/1212121.pcap",
+  "source_sha256": "88e53b2835febf5a35346e9dd02379894c530672277ab4ae7f45215766f04960",
+  "session_id": "f4bb329de9d9ae7a",
+  "clock_id": "lidar-device:f4bb329de9d9ae7a",
+  "pose_source": "experimental_pose",
+  "pose_map_id": "bc2845862357489166f513bb1d0d0077a500e97cbb266a51c647905403070694",
+  "clock_epoch": 0,
+  "plane_origin_W": [0.07056772028264541, -0.007246441631958412, 3.0675538005542746],
+  "keep_normal_W": [0.014248060531487918, 0.9992255816538826, -0.03667737367302715],
+  "annotation": {
+    "reference_frame": 91,
+    "reference_device_time_s": 38.05000476799934,
+    "geometry_source": "observed dual-rail local centerline and verified recorded pose",
+    "decision_source": "user identified this recording's opposite side as non-target and approved a scoped experimental ROI"
+  },
+  "note": "Explicit experimental measurement ROI, not a semantic background classifier. Excluded returns stay visible as gray context. Never apply without all recording, clock and pose-map identities."
+}
